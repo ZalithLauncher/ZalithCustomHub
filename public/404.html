@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Redirecting...</title>
+    <script>
+      (function () {
+        // 移除多余的斜杠并确保以 /#/ 开头
+        var path = window.location.pathname;
+        var search = window.location.search;
+        var hash = window.location.hash;
+        
+        // 如果已经是 hash 路由了，说明是资源加载失败导致的 404，跳回首页
+        if (hash.indexOf('#') === 0) {
+          window.location.replace(window.location.origin + '/#/');
+          return;
+        }
+
+        var target = window.location.origin + '/#' + path + search + hash;
+        window.location.replace(target);
+      })()
+    </script>
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=/" />
+    </noscript>
+  </head>
+</html>
