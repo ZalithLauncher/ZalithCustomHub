@@ -1,0 +1,9 @@
+{
+  "title": "Monochrome Launcher 中文版",
+  "author": "Zalith Community",
+  "description": "中文欢迎首页示例，包含 ZL 启动器欢迎区和 Minecraft Java 正式版、快照版更新卡片。",
+  "cover": "cover.png",
+  "locale": "zh-CN",
+  "createdAt": "2026-05-11",
+  "updatedAt": "2026-05-11"
+}
