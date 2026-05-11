@@ -5,7 +5,7 @@ export const siteConfig = {
   description: 'Community-built ZL2 custom pages with live browser previews.',
   siteUrl,
   githubOwner: import.meta.env.VITE_GITHUB_OWNER ?? 'zalithlauncher',
-  githubRepo: import.meta.env.VITE_GITHUB_REPO ?? 'zalithcostumehub',
+  githubRepo: import.meta.env.VITE_GITHUB_REPO ?? 'zalithcustomhub',
   githubBranch: import.meta.env.VITE_GITHUB_BRANCH ?? 'main',
 } as const
 

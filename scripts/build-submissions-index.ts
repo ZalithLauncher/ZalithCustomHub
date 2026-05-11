@@ -29,7 +29,7 @@ const publicSubmissionsDir = path.join(rootDir, 'public', 'submissions')
 const outputFile = path.join(rootDir, 'src', 'generated', 'submissions-index.ts')
 
 const githubOwner = process.env.VITE_GITHUB_OWNER ?? 'zalithlauncher'
-const githubRepo = process.env.VITE_GITHUB_REPO ?? 'zalithcostumehub'
+const githubRepo = process.env.VITE_GITHUB_REPO ?? 'zalithcustomhub'
 const githubBranch = process.env.VITE_GITHUB_BRANCH ?? 'main'
 
 function buildRawUrl(filePath: string) {

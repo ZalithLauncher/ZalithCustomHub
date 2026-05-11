@@ -1,5 +1,7 @@
 # ZL2 Custom Page Hub
 
+[English](README.md) | [简体中文](README_ZH.md)
+
 Static showcase for community-made ZL2 custom homepage files. The site lists submitted works first, opens a full browser-side preview, and provides both source downloads and raw file links.
 
 ## Stack
