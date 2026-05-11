@@ -29,6 +29,6 @@ export const submissions: SubmissionRecord[] = [
     "markdownPath": "/submissions/monochrome-launcher-zh/page.md",
     "rawUrl": "https://raw.githubusercontent.com/zalithlauncher/zalithcustomhub/main/submissions/monochrome-launcher-zh/page.md",
     "blobUrl": "https://github.com/zalithlauncher/zalithcustomhub/blob/main/submissions/monochrome-launcher-zh/page.md",
-    "previewText": "Monochrome Launcher 中文版 简洁、清晰、以实用入口为主的 ZL 启动器中文首页。 这里可以快速进入官网与下载页，也可以顺手查看 Minecraft Java Edition 的正式版更新和快照版动态。 Minecraft Java 更新 面向日常游玩的稳定版本，适合优先体验已经发布的正式内容与修复更新。 抢先了解测试中的新特性与改动，适合"
+    "previewText": "Monochrome Launcher 中文版 简洁、清晰、以实用入口为主的 ZL 启动器中文首页。 这里可以快速进入官网与下载页，也可以顺手查看 Minecraft Java Edition 的正式版更新和快照版动态。 正式版更新 面向日常游玩的稳定版本，适合优先体验已经发布的正式内容与修复更新。 快照版更新 抢先了解测试中的新特性与改动，适合关注 Jav"
   }
 ]

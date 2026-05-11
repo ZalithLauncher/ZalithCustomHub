@@ -91,6 +91,7 @@ scripts/
   - `VITE_GITHUB_REPO`
   - `VITE_GITHUB_BRANCH`
 - 推荐自定义域名：`custom.zalithlauncher.cn`
+- Skills 仓库地址：`https://github.com/leemwood/zl2-custom-page`
 - 本项目使用 `HashRouter` 以兼容 EdgeOne 静态部署。
 - 生产环境路由访问方式：
   - `/#/`

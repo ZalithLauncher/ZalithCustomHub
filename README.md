@@ -93,6 +93,7 @@ Optional fields:
   - `VITE_GITHUB_REPO`
   - `VITE_GITHUB_BRANCH`
 - Recommended custom domain: `custom.zalithlauncher.cn`
+- Skills Repository: `https://github.com/leemwood/zl2-custom-page`
 - This project uses `HashRouter` for EdgeOne static deployment compatibility.
 - Production routes should be accessed as:
   - `/#/`
